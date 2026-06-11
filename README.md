@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de agendas - Barberia Corte Urbano
 
 Sistema web en PHP y MySQL para gestionar citas de una barberia existente/simulada: clientes, empleados, servicios, agenda diaria y pagos.
@@ -30,3 +31,7 @@ Sistema web en PHP y MySQL para gestionar citas de una barberia existente/simula
 - Cambiar estados de citas.
 - Registrar pagos asociados a citas.
 - Gestion basica de clientes y servicios.
+=======
+# hober_pruebita
+esto es un ejemplo que voy hacer ,por aburrimiento
+>>>>>>> f570fa0f5733e7f9767a747f6b6744d47bba22f1
